@@ -2,10 +2,10 @@ This script downloads youtube video using youtube-dl and splits it into 30 secon
 
 
 ## Usage:
-    ./ytws.py [-h] [-k] [-l] [-t DURATION] [-f] url
+ytws.py [-h] [-k] [-l] url
 
 ##### positional arguments:
-url                   url of youtube video
+    url                   url of youtube video
 
 ##### optional arguments:
 
